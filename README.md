@@ -3,13 +3,15 @@ This repository contains a collection of Python exercises completed during my co
 
 ## Description:
 
-Welcome to my Python Bootcamp exercises repository! Here, you'll find a comprehensive collection of Python exercises completed during my learning journey through the Bootcamp. These exercises cover diverse Python concepts, including data structures, algorithms, problem-solving, and application development. Each exercise is documented in Jupyter Notebooks, providing hands-on demonstrations and solutions using Python code.
+Welcome to my Python Bootcamp exercises repository! Here, you'll find a comprehensive collection of Python exercises completed during my learning journey through the Bootcamp. 
+These exercises cover diverse Python concepts, including data structures, algorithms, problem-solving, and application development. 
+Each exercise is documented in Jupyter Notebooks, providing hands-on demonstrations and solutions using Python code.
 
 ## Contents:
 
-Python exercises spanning introductory concepts
-Jupyter Notebook files showcasing Python solutions, explanations, and code demonstrations
-Detailed comments and explanations within the notebooks for better comprehension
+- Python exercises spanning introductory concepts
+- Jupyter Notebook files showcasing Python solutions, explanations, and code demonstrations
+- Detailed comments and explanations within the notebooks for better comprehension
 
 ## Purpose:
 Showcases my proficiency in Python programming attained through the Bootcamp. Demonstrates problem-solving skills, algorithmic thinking, and practical Python application in various domains.
