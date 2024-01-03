@@ -12,6 +12,8 @@ Each exercise is documented in Jupyter Notebooks, providing hands-on demonstrati
 - Python exercises spanning introductory concepts
 - Jupyter Notebook files showcasing Python solutions, explanations, and code demonstrations
 - Detailed comments and explanations within the notebooks for better comprehension
+- Intro to Python Syntax Workbook and Data Structures Workbook were part of the first session
+- Intro to Python Practical and Data Structures were self-study practice
 
 ## Purpose:
 Showcases my proficiency in Python programming attained through the Bootcamp. Demonstrates problem-solving skills, algorithmic thinking, and practical Python application in various domains.
